@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maseeullahibrahimi
 - 👀 I have Computer Science degree from Salam University Kabul, Afghanistan
-- 🌱 I’m currently reviewing my programming skills
-- 💞️ I’m looking to collaborate on Web Front-End Development
+- 🌱 I’m currently looking to collaborate on programming back.
+- 
 
 
 <!---
